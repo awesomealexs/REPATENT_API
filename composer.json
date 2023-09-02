@@ -1,0 +1,19 @@
+{
+    "name": "forestdevs/rospatent",
+    "autoload": {
+        "psr-4": {
+            "Rospatent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "require": {
+        "symfony/http-client": "^6.3"
+    }
+}
